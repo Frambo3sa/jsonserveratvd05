@@ -1,0 +1,79 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "João da Silva",
+      "cpf": "12345678900",
+      "email": "joao@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Souza",
+      "cpf": "98765432100",
+      "email": "maria@email.com",
+      "senha": "senha123"
+    },
+    {
+      "id": "2ce1",
+      "nome": "francisco",
+      "cpf": "11122233344",
+      "email": "fran@gmail.com",
+      "senha": "1122"
+    },
+    {
+      "id": "530f",
+      "nome": "bel do gera",
+      "cpf": "22233344455",
+      "email": "rubronegra@.com",
+      "senha": "3333"
+    },
+    {
+      "id": "ad5a",
+      "nome": "cecibrends",
+      "cpf": "22233344455",
+      "email": "tftvvgy@.com",
+      "senha": "1122"
+    }
+  ],
+  "contatos": [
+    {
+      "id": "1",
+      "name": "João Neto",
+      "numero": "+55 8197699999",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Maria Souza",
+      "numero": "+55 81976542672",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Carlos Oliveira",
+      "numero": "+55 81979233412",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": "e04c",
+      "nomec": "ruth",
+      "numero": "8199999999"
+    },
+    {
+      "id": "fd73",
+      "name": "jorge",
+      "numero": "8198888888"
+    },
+    {
+      "id": "8f37",
+      "name": "birutas",
+      "numero": "81799999999"
+    },
+    {
+      "id": "3ac5",
+      "name": "",
+      "numero": ""
+    }
+  ]
+}
